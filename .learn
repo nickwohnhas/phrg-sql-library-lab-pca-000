@@ -9,3 +9,5 @@ tags:
   - intermediate
 languages:
   - sql
+
+parent_template: git@github.com:learn-co-curriculum/sql-library-lab.git
